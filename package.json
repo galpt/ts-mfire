@@ -1,0 +1,21 @@
+{
+  "name": "ts-mfire",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "start": "node ./dist/bin/mfire.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.6",
+    "@types/node": "^20.11.0",
+    "@types/cheerio": "^0.22.33",
+    "@types/puppeteer": "^5.4.7"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "lru-cache": "^10.0.0",
+    "puppeteer": "^24.15.0"
+  }
+}
