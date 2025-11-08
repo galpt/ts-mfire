@@ -1,6 +1,6 @@
 # ts-mfire
 
-A small, focused TypeScript port of `go-mfire` that demonstrates how to parse MangaFire (https://mangafire.to) and perform searches which require the site's `vrf` token.
+A small, focused TypeScript port of `go-mfire` that demonstrates how to parse [MangaFire](https://mangafire.to) and perform searches which require the site's `vrf` token.
 
 <p align="center">
 	<img src="https://github.com/galpt/ts-mfire/blob/main/screenshot/how-it-looks-like.jpg" alt="Interface preview" style="max-width:100%;height:auto;" />
